@@ -1,0 +1,6 @@
+**URLlink for feet to yard**
+
+http://aselab10-fathima.us-west-2.elasticbeanstalk.com/conversion/FeetToYard/3
+**URL link for yard to feet**
+http://aselab10-fathima.us-west-2.elasticbeanstalk.com/conversion/YardToFeet
+
